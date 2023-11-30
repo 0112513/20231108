@@ -1,0 +1,10 @@
+@import "./node_modules/bootstrap/scss/functions";
+
+//自定義的
+@import "./stylesheet/helper/variables";
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+//我自己的樣式檔
+
+@import "./stylesheet/pages/home"
